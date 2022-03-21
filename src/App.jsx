@@ -14,13 +14,7 @@ function App() {
 
   return (
     <div className="App">
-        <BookDetailsPage/>
-        <BookCard/>
-        <Home/>
-        <Navbar/>
-        <NotFound/>
-        <Section/>
-        <SectionAndFilterButtons/>
+        
     </div>
   )
 }
